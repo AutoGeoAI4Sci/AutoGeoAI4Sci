@@ -25,25 +25,23 @@ AutoGeoAI4Sci is motivated by the following research directions:
   Promoting open science, reproducibility, interpretability, and responsible deployment of GeoAI systems.
 
 ---
-
 ## 📂 Repository Ecosystem
 
 The organization is structured around the following core repositories:
 
-- **[`papers`](./papers)**  
+- **[`papers`](https://github.com/AutoGeoAI4Sci/papers)**  
   Curated research papers, benchmarks, surveys, and reproducible experiment references related to GeoAI and foundation models.
 
-- **[`tutorials`](./tutorials)**  
+- **[`tutorials`](https://github.com/AutoGeoAI4Sci/tutorials)**  
   Hands-on tutorials for GeoAI, GIScience, spatial data science, and AI-driven geospatial workflows.
 
-- **[`projects`](./projects)**  
+- **[`projects`](https://github.com/AutoGeoAI4Sci/projects)**  
   An index of active and past open-source research projects developed under the AutonomousGeoAI4Science initiative.
 
-- **[`awesome-autonomous-geoai`](./awesome-autonomous-geoai)**  
+- **[`awesome-autonomous-geoai`](https://github.com/AutoGeoAI4Sci/awesome-autonomous-geoai)**  
   A curated list of resources, tools, datasets, and papers on autonomous GeoAI and AI4Science.
 
-- **[`.github`](./.github)**  
-  Organization-wide contribution guidelines, issue templates, and community health files.
+> **Note:** Organization-wide contribution guidelines and templates are managed centrally at the organization level.
 
 ---
 
