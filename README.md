@@ -27,21 +27,45 @@ AutoGeoAI4Sci is motivated by the following research directions:
 ---
 ## 📂 Repository Ecosystem
 
-The organization is structured around the following core repositories:
+The **AutonomousGeoAI4Science** organization is structured as a modular research ecosystem, with repositories organized by purpose and contribution type.
+
+---
+
+### 📄 Research & Scholarship
 
 - **[`papers`](https://github.com/AutoGeoAI4Sci/papers)**  
   Curated research papers, benchmarks, surveys, and reproducible experiment references related to GeoAI and foundation models.
 
+---
+
+### 📘 Learning & Education
+
 - **[`tutorials`](https://github.com/AutoGeoAI4Sci/tutorials)**  
-  Hands-on tutorials for GeoAI, GIScience, spatial data science, and AI-driven geospatial workflows.
+  Hands-on tutorials for GeoAI, GIScience, spatial data science, and AI-driven geospatial workflows.  
+  Community contributions are welcome. Educational resources and forked materials should be added as repositories prefixed with<br>
+  **`Tutorial_`** prefix  
+  (e.g., `Tutorial_SpatialQueryLab`, `Tutorial_Geospatial-Artificial-Intelligence`), with clear attribution and license preservation.
+
+---
+
+### 🔬 Research & Development
 
 - **[`projects`](https://github.com/AutoGeoAI4Sci/projects)**  
-  An index of active and past open-source research projects developed under the AutonomousGeoAI4Science initiative.
+  An index of active and past open-source research projects developed within the AutonomousGeoAI4Science initiative.  
+  Research-oriented repositories—whether original work or adapted open-source projects—should use the<br>
+   **`Project_`** prefix  
+  (e.g., `Project_GeoGuesser`), with appropriate attribution to upstream sources where applicable.
+
+---
+
+### 🧭 Community Resources
 
 - **[`awesome-autonomous-geoai`](https://github.com/AutoGeoAI4Sci/awesome-autonomous-geoai)**  
   A curated list of resources, tools, datasets, and papers on autonomous GeoAI and AI4Science.
 
-> **Note:** Organization-wide contribution guidelines and templates are managed centrally at the organization level.
+---
+
+> **Note:** Organization-wide contribution guidelines, naming conventions, and templates are managed centrally at the organization level.
 
 ---
 
